@@ -5,6 +5,4 @@
 cap本地表操作使用的是 MySql.Data
 <br/>
 <br/>
-LICENSE: <br/>
-跟 MySql.Data 保持一致
 
